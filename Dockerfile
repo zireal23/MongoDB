@@ -1,5 +1,5 @@
 # https://hub.docker.com/_/mongo
 
-FROM mongo:4.4.3-bionic
+FROM arm64v8/mongo:6.0.2
 
 USER 999
